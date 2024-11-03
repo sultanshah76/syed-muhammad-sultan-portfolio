@@ -10,8 +10,8 @@ const font = Sora({
   subsets:['latin']
 })
 export const metadata: Metadata = {
-  title: "CoreCode Portfolio",
-  description: "CoreCode portfolio with nextjs",
+  title: "syed-muhammad-sultan Portfolio",
+  description: "Sultan-portfolio with nextjs",
 };
 
 export default function RootLayout({

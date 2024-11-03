@@ -36,8 +36,7 @@ const Nav = ({openNav}:Props) => {
     <div className={`fixed ${navBg? 'bg-[#240b39]': 'fixed'} h-[12vh] z-[10] w-full transition-all duration-200`}>
       <div className='flex items-center h-full justify-between w-[95%] sm:w-[90%] xl:w-[80%] mx-auto'>
         {/* LOGO */}
-        {/* <Image src='/images/logo.png' alt='Logo' width={170} height={170} className='ml-[-1.5rem] sm:ml-0' /> */}
-        <div className='text-3xl font-bold text-white'>CodeCore</div>
+        <Image src='/images/logo.png' alt='Logo' width={190} height={190} className='ml-[-1.5rem] sm:ml-0' />
         {/* Nav Links */}
         <div className='flex items-center space-x-10'>
           <div className='hidden lg:flex items-center space-x-8'>

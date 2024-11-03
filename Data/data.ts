@@ -9,7 +9,7 @@ export const BaseInfo = {
 export const aboutInfo = {
   title: "Crafting Web Application with Passion and Precision",
   description:
-    "At Core-Code, we’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise.",
+    "We’re a dedicated team of designers and developers committed to delivering tailored web solutions. With a blend of creativity and technical expertise.",
   client: "10+",
   experience: "1.5+",
   project: "30+",
