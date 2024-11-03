@@ -3,10 +3,10 @@ import React from "react";
 const ContactForm = () => {
   return (
     <div className="bg-[#140c1c] rounded-lg p-4 sm:p-10">
-      <h1 className="text-bg text-2xl md:text-3xl lg:text-[2rem] font-bold">Let's Work together!</h1>
+      <h1 className="text-bg text-2xl md:text-3xl lg:text-[2rem] font-bold">Lets Work together!</h1>
       <p className="text-gray-200 mt-3 lg:text-base text-xs md:text-sm">
-        "Let's collaborate to bring your vision to life! Whether you have
-        questions or ideas, I'm ready to help."
+        Lets collaborate to bring your vision to life! Whether you have
+        questions or ideas, Im ready to help.
       </p>
       {/* input field */}
       <form className="mt-8 block w-full overflow-hidden">
